@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,45:111111,70:ff6a00,100:050505&text=ANIKET006DEV&fontColor=ffffff&fontSize=60&fontAlignY=42&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=FF6A00&center=true&vCenter=true&width=750&lines=BUILDING+%E2%80%A2+BREAKING+%E2%80%A2+REBUILDING;FULL-STACK+SYSTEMS+%2B+AI+EXPERIMENTS;JAVA+%2B+MERN+%2B+PROBLEM+SOLVING;CODE+IS+BETTER+WHEN+IT+SHIPS."/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BUILDING-FF6A00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-111111?style=for-the-badge&logo=openjdk&logoColor=FF6A00"/>
+<img src="https://img.shields.io/badge/MERN-111111?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=openai&logoColor=FFFFFF"/>
+
+</div>
+
+<br/>
+
+<!-- ═════════════════════════════ INTRO ═════════════════════════════ -->
+
+<div align="center">
+
+<h2>✦ HELLO, I'M ANIKET</h2>
+
+<p>
+I build web systems, experiment with AI-powered products,<br/>
+solve problems in Java, and turn ideas into things people can actually use.
+</p>
+
+<br/>
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320"/>
+
+</div>
+
+<br/><br/>
+
+
+
+<!-- ══════════════════════════════ LINKS ═══════════════════════════════ -->
+
+<div align="center">
+
+<h2>✦ FIND ME</h2>
+
+<br/>
+
+<a href="https://github.com/Aniket006dev">
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aniket-mishra-8390a4253/">
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="https://aniketportfolio-mu.vercel.app/">
+<img src="https://img.shields.io/badge/WEB-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=FF6A00&center=true&vCenter=true&width=600&lines=BUILD+SOMETHING+WORTH+OPENING.;SEE+YOU+IN+THE+NEXT+COMMIT."/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,40:111111,70:ff6a00,100:050505&animation=twinkling" width="100%"/>
 
 <!--
-**Aniket006dev/Aniket006dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PROJECT MEDIA
 
-Here are some ideas to get you started:
+Create:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+assets/
+├── assessly.gif
+├── travex.gif
+└── sentra.gif
+
+Put your project recordings/screenshots there.
+
+Each project deliberately uses the EXACT SAME structure:
+
+LEFT  = large visual
+RIGHT = project identity + description + animated icons + links
+
+Do not change the structure between projects.
 -->
