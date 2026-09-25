@@ -64,7 +64,7 @@ solve problems in Java, and turn ideas into things people can actually use.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,40:111111,70:ff6a00,100:050505&animation=twinkling" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,40:111111,70:ff6a00,100:050505&animation=twinkling" width="100%"/> -->
 
 <!--
 PROJECT MEDIA
