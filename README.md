@@ -32,7 +32,7 @@ solve problems in Java, and turn ideas into things people can actually use.
 
 </div>
 
-<br/><br/>
+<br/>
 
 
 
@@ -56,7 +56,7 @@ solve problems in Java, and turn ideas into things people can actually use.
 <img src="https://img.shields.io/badge/WEB-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=ffffff"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=FF6A00&center=true&vCenter=true&width=600&lines=BUILD+SOMETHING+WORTH+OPENING.;SEE+YOU+IN+THE+NEXT+COMMIT."/>
 
