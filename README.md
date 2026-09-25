@@ -3,9 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,45:111111,70:ff6a00,100:050505&text=ANIKET%20MISHRA&fontColor=ffffff&fontSize=58&fontAlignY=42&animation=twinkling" width="100%"/>
 
-<sub><code>@Aniket006dev</code></sub>
-
-
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=700&color=FF6A00&center=true&vCenter=true&width=750&lines=BUILDING+%E2%80%A2+BREAKING+%E2%80%A2+REBUILDING;FULL-STACK+SYSTEMS+%2B+AI+EXPERIMENTS;JAVA+%2B+MERN+%2B+PROBLEM+SOLVING;CODE+IS+BETTER+WHEN+IT+SHIPS."/>
 
@@ -17,7 +14,7 @@ Java&nbsp;&nbsp;·&nbsp;&nbsp;JavaScript&nbsp;&nbsp;·&nbsp;&nbsp;Python&nbsp;&n
 
 </div>
 
-<br/>
+<br/><br/>
 
 
 
@@ -38,7 +35,7 @@ solve problems in Java, and turn ideas into things people can actually use.
 
 </div>
 
-<br/>
+<br/><br/>
 
 
 
